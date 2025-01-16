@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    display: flex; 
+  }
+  
+    h1 {
+        font-size: 70px;
+        text-align: center;
+      }
+    
+div {
+    position: relative;
+    margin-top: 57px; /* Posiciona a imagem na parte inferior da tela */
+    left: 82%; /* Centraliza a imagem horizontalmente */
+    transform: translateX(-225%); /* Ajusta a posição para centralizar corretamente */
+  }
+    
+  
+    
